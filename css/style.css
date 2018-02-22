@@ -1,0 +1,41 @@
+body{
+  background-color:rgb(255,162,155);
+}
+.display{
+  width: 420px;
+  margin: 10px auto;
+  background-color: white;
+  border-radius: 5px;
+}
+.nav-item{
+  width: 140px;
+  border-radius: 0px;
+}
+.nav a{
+  color:white;
+}
+.tab-pane a{
+  color:rgb(255,115,106);
+
+}
+.nav{
+  margin: 10px auto;
+}
+.nav-link{
+  background-color:rgb(255,115,106);
+}
+ul li{
+  list-style-type:none;
+  color:rgb(255,115,106);
+}
+img{
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  margin:10px 10px;
+}
+span{
+/*   font-style: italic; */
+  font-size:0.7em;
+  color: black;
+}
